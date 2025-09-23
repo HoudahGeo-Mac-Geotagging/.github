@@ -1,7 +1,7 @@
 # HoudahGeo Mac – Professional GPS Geotagging Tool for macOS
 
 <div align="center">  
-<img src="https://static.macupdate.com/products/27489/l/phpdq2erw-logo.png" alt="HoudahGeo Logo" width="256" height="256">  
+<img src="https://www.macworld.com/wp-content/uploads/2023/01/houdahgeo-mac-icon-100842057-orig.jpg" alt="HoudahGeo Logo" width="256" height="256">  
 </div>  
 
 <div align="center">  
